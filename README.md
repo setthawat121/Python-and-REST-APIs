@@ -77,3 +77,4 @@ if __name__ == '__main__':
 <br />
 
 ขั้นตอนต่อไปก็เป็นหน้าที่ของฝ่าย User ที่จะทำการ request ความต้องการผ่าน PostMan
+![image](https://github.com/setthawat121/Python-and-REST-APIs/assets/96307668/0dc30aed-bc3d-477a-80db-4dd7cfeb5631)
